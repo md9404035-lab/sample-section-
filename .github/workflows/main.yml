@@ -1,0 +1,390 @@
+[
+  {
+    "id": "SR-9021",
+    "buyer": "H&M",
+    "styleNo": "HM-SUMMER-POLO-26",
+    "styleName": "Pique Cotton Classic Polo",
+    "category": "Polo Shirt",
+    "type": "Fit Sample",
+    "country": "Europe",
+    "sampleman": "রফিক মোল্লা (Rafiq Mollah)",
+    "status": "Sewing",
+    "priority": "Urgent",
+    "deadline": "2026-11-01T17:00",
+    "createdAt": "2026-10-30T09:30",
+    "fabricGsm": "220 GSM 100% Organic Pique Cotton",
+    "colorway": "Navy Blue / Snow White Collar",
+    "size": "M",
+    "targetQty": 2,
+    "notes": "কলার এবং কাফে কোনো রিঙ্কেল থাকা যাবে না। বায়ারের ইউরোপিয়ান রেগুলার ফিট হবে। প্লাকেটে টুইন নিডল ফিনিশ নিখুঁত রাখুন।",
+    "machineReqs": [
+      "Single Needle Lockstitch",
+      "4-Thread Overlock",
+      "Button Holer",
+      "Button Sewer"
+    ],
+    "poms": [
+      {
+        "id": "pom-1",
+        "name": "1/2 Chest Width",
+        "bnName": "চেস্ট প্রস্থ (১/২)",
+        "specVal": 52,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "actualVal": 52.2,
+        "deviation": 0.2,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-2",
+        "name": "Total Body Length (HSP)",
+        "bnName": "বডি দৈর্ঘ্য (এইচএসপি)",
+        "specVal": 71,
+        "unit": "cm",
+        "tolerance": 1,
+        "actualVal": 71.4,
+        "deviation": 0.4,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-3",
+        "name": "Across Shoulder",
+        "bnName": "শোল্ডার প্রস্থ",
+        "specVal": 44.5,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "actualVal": 44.5,
+        "deviation": 0,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-4",
+        "name": "Sleeve Length",
+        "bnName": "হাতার দৈর্ঘ্য",
+        "specVal": 22,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "actualVal": 22.3,
+        "deviation": 0.3,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-5",
+        "name": "Placket Length",
+        "bnName": "প্লাকেট দৈর্ঘ্য",
+        "specVal": 15,
+        "unit": "cm",
+        "tolerance": 0.3,
+        "actualVal": 15.1,
+        "deviation": 0.1,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-6",
+        "name": "Bottom Hem Opening",
+        "bnName": "নিচের ঘের (১/২)",
+        "specVal": 51.5,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "actualVal": 51.6,
+        "deviation": 0.1,
+        "status": "Pass"
+      }
+    ],
+    "qcPassed": true,
+    "qcScore": 100
+  },
+  {
+    "id": "SR-9022",
+    "buyer": "Zara",
+    "styleNo": "ZR-CHINO-SLIM-99",
+    "styleName": "Stretch Cotton Slim Chino",
+    "category": "Denim / Pants",
+    "type": "Size Set",
+    "country": "USA",
+    "sampleman": "আব্দুল আলীম (Abdul Alim)",
+    "status": "Cutting",
+    "priority": "High",
+    "deadline": "2026-11-02T12:00",
+    "createdAt": "2026-10-31T08:00",
+    "fabricGsm": "260 GSM 98% Cotton 2% Spandex Twill",
+    "colorway": "Olive Sand Drab",
+    "size": "32/32",
+    "targetQty": 3,
+    "notes": "আমেরিকান রিলাক্সড হিপ ও থাই রেশিও বজায় রাখুন। ওয়াশের পর ২% শ্রিঙ্কেজ এলাউন্স প্যাটার্নে যুক্ত করা হয়েছে।",
+    "machineReqs": [
+      "Double Needle Lockstitch",
+      "Overlock 5-Thread",
+      "Bartack Machine"
+    ],
+    "poms": [
+      {
+        "id": "pom-1",
+        "name": "Waist Width (Relaxed)",
+        "bnName": "কোমরের মাপ (১/২)",
+        "specVal": 42,
+        "unit": "cm",
+        "tolerance": 0.7,
+        "status": "Pending"
+      },
+      {
+        "id": "pom-2",
+        "name": "Hip Width (18cm from WB)",
+        "bnName": "হিপ প্রস্থ",
+        "specVal": 52.5,
+        "unit": "cm",
+        "tolerance": 0.7,
+        "status": "Pending"
+      },
+      {
+        "id": "pom-3",
+        "name": "Inseam Length",
+        "bnName": "ইনসিম দৈর্ঘ্য",
+        "specVal": 81,
+        "unit": "cm",
+        "tolerance": 1,
+        "status": "Pending"
+      },
+      {
+        "id": "pom-4",
+        "name": "Thigh Width (2.5cm below crotch)",
+        "bnName": "থাই প্রস্থ",
+        "specVal": 31,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "status": "Pending"
+      },
+      {
+        "id": "pom-5",
+        "name": "Bottom Leg Opening",
+        "bnName": "পায়ের বটম ঘের",
+        "specVal": 18,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "SR-9023",
+    "buyer": "Uniqlo",
+    "styleNo": "UQ-AIRISM-TEE-04",
+    "styleName": "Airism Quick-Dry Crew Tee",
+    "category": "T-Shirt",
+    "type": "Proto Sample",
+    "country": "Japan",
+    "sampleman": "কবীর হোসেন (Kabir Hossain)",
+    "status": "QC",
+    "priority": "Normal",
+    "deadline": "2026-10-31T20:00",
+    "createdAt": "2026-10-29T14:15",
+    "fabricGsm": "160 GSM 65% Poly 35% Cotton Modal",
+    "colorway": "Light Mist Melange",
+    "size": "L (Japan Asian Spec)",
+    "targetQty": 1,
+    "notes": "জাপানি সাইজ চার্ট অনুসারী—হাতার ড্রপ ও শোল্ডার ঢালু না করে খাড়া রাখুন। নেক পাইপিংয়ে ৩/৮ ইঞ্চি ওভারলক স্টিচ খুব নিখুঁত দরকার।",
+    "machineReqs": [
+      "Overlock 4-Thread",
+      "Flatlock Cylinder Bed",
+      "Single Needle Lockstitch"
+    ],
+    "poms": [
+      {
+        "id": "pom-1",
+        "name": "1/2 Chest Width",
+        "bnName": "চেস্ট প্রস্থ (১/২)",
+        "specVal": 50,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "actualVal": 50.8,
+        "deviation": 0.8,
+        "status": "Fail"
+      },
+      {
+        "id": "pom-2",
+        "name": "Body Length (HSP)",
+        "bnName": "বডি দৈর্ঘ্য",
+        "specVal": 68,
+        "unit": "cm",
+        "tolerance": 0.8,
+        "actualVal": 68.3,
+        "deviation": 0.3,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-3",
+        "name": "Across Shoulder",
+        "bnName": "শোল্ডার প্রস্থ",
+        "specVal": 43,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "actualVal": 43.2,
+        "deviation": 0.2,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-4",
+        "name": "Neck Opening (Edge to Edge)",
+        "bnName": "নেক ওপেনিং",
+        "specVal": 19.5,
+        "unit": "cm",
+        "tolerance": 0.4,
+        "actualVal": 19.4,
+        "deviation": -0.1,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-5",
+        "name": "Sleeve Length",
+        "bnName": "হাতার দৈর্ঘ্য",
+        "specVal": 20,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "actualVal": 20.1,
+        "deviation": 0.1,
+        "status": "Pass"
+      }
+    ],
+    "qcPassed": false,
+    "qcScore": 80,
+    "qcInspector": "তরিকুল ইসলাম (QC Lead)"
+  },
+  {
+    "id": "SR-9024",
+    "buyer": "Walmart",
+    "styleNo": "WM-GEORGE-FLEECE-01",
+    "styleName": "Men Heavyweight Fleece Hoodie",
+    "category": "Hoodie / Sweatshirt",
+    "type": "PP Sample",
+    "country": "USA",
+    "sampleman": "মো: শাহিন (Md. Shahin)",
+    "status": "Ready",
+    "priority": "High",
+    "deadline": "2026-10-31T15:00",
+    "createdAt": "2026-10-28T11:00",
+    "fabricGsm": "320 GSM 80% Cotton 20% Polyester Brushed Fleece",
+    "colorway": "Carbon Heather Grey",
+    "size": "L",
+    "targetQty": 2,
+    "notes": "ক্যাঙ্গারু পকেটের বারট্যাক শক্তিশালী থাকতে হবে। হুড ড্রকর্ড আইলেট ও ড্রকর্ড টিপিং বায়ার অনুমোদনকৃত হতে হবে।",
+    "machineReqs": [
+      "Overlock 4-Thread Heavy",
+      "Flatlock Bottom & Cuff",
+      "Eyelet Machine",
+      "Bartack"
+    ],
+    "poms": [
+      {
+        "id": "pom-1",
+        "name": "1/2 Chest Width",
+        "bnName": "চেস্ট প্রস্থ (১/২)",
+        "specVal": 62,
+        "unit": "cm",
+        "tolerance": 1,
+        "actualVal": 62.4,
+        "deviation": 0.4,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-2",
+        "name": "Body Length",
+        "bnName": "বডি দৈর্ঘ্য",
+        "specVal": 74,
+        "unit": "cm",
+        "tolerance": 1,
+        "actualVal": 74.2,
+        "deviation": 0.2,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-3",
+        "name": "Across Shoulder",
+        "bnName": "শোল্ডার প্রস্থ",
+        "specVal": 52,
+        "unit": "cm",
+        "tolerance": 0.8,
+        "actualVal": 52.1,
+        "deviation": 0.1,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-4",
+        "name": "Kangaroo Pocket Width",
+        "bnName": "পকেট প্রস্থ",
+        "specVal": 34,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "actualVal": 34.1,
+        "deviation": 0.1,
+        "status": "Pass"
+      },
+      {
+        "id": "pom-5",
+        "name": "Hood Height",
+        "bnName": "হুড উচ্চতা",
+        "specVal": 37,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "actualVal": 37.3,
+        "deviation": 0.3,
+        "status": "Pass"
+      }
+    ],
+    "qcPassed": true,
+    "qcScore": 100,
+    "qcInspector": "শাহেদা আক্তার (Sr. Quality Auditor)",
+    "qcDate": "2026-10-31"
+  },
+  {
+    "id": "SR-9025",
+    "buyer": "Target",
+    "styleNo": "TG-ACTIVE-RUNNER",
+    "styleName": "Women Seamless Yoga Leggings",
+    "category": "Activewear",
+    "type": "Salesman Sample",
+    "country": "USA",
+    "sampleman": "নাজমুল হক (Nazmul Haque)",
+    "status": "Finishing",
+    "priority": "Normal",
+    "deadline": "2026-11-03T18:00",
+    "createdAt": "2026-10-30T16:00",
+    "fabricGsm": "240 GSM 75% Nylon 25% Spandex Interlock",
+    "colorway": "Plum Purple",
+    "size": "S",
+    "targetQty": 4,
+    "notes": "ফ্ল্যাট সিমার দিয়ে ৪ নিডল ৬ থ্রেড স্টিচ হবে। কোনো থ্রেড টেনশন টাইট হওয়া যাবে না যেন স্ট্রেচে ছিঁড়ে না যায়।",
+    "machineReqs": [
+      "Flatlock 4-Needle 6-Thread",
+      "Overlock with Elastic Feeder"
+    ],
+    "poms": [
+      {
+        "id": "pom-1",
+        "name": "Waist (Relaxed)",
+        "bnName": "কোমর (রিলাক্সড)",
+        "specVal": 30,
+        "unit": "cm",
+        "tolerance": 0.5,
+        "status": "Pending"
+      },
+      {
+        "id": "pom-2",
+        "name": "Waist Extended (Max Stretch)",
+        "bnName": "কোমর (স্ট্রেচড)",
+        "specVal": 48,
+        "unit": "cm",
+        "tolerance": 1,
+        "status": "Pending"
+      },
+      {
+        "id": "pom-3",
+        "name": "Inseam Length",
+        "bnName": "ইনসিম দৈর্ঘ্য",
+        "specVal": 66,
+        "unit": "cm",
+        "tolerance": 0.8,
+        "status": "Pending"
+      }
+    ]
+  }
+]
